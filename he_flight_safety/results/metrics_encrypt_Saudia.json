@@ -1,0 +1,11 @@
+{
+  "airline": "Saudia",
+  "flights": 30,
+  "values_encrypted": 7,
+  "encrypt_seconds_total": 0.5209403997287154,
+  "encrypt_seconds_per_value": 0.0744200571041022,
+  "input_dataset_bytes": 5406,
+  "plaintext_counts_bytes": 208,
+  "encrypted_message_bytes": 8928,
+  "expansion_factor": 42.92307692307692
+}
