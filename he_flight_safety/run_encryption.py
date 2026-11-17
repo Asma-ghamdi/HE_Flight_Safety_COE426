@@ -1,4 +1,4 @@
-"""Runs Member 3's whole pipeline in order. Each step is a separate script = a separate role."""
+"""Run the complete encryption and encrypted aggregation workflow."""
 import subprocess, sys
 from common import AIRLINES
 

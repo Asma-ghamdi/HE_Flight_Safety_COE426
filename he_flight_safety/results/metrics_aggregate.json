@@ -2,7 +2,7 @@
   "airlines_included": 3,
   "metrics_aggregated": 7,
   "homomorphic_additions": 14,
-  "aggregate_seconds": 0.001190999522805214,
-  "server_input_bytes": 26789,
-  "server_output_bytes": 8931
+  "aggregate_seconds": 0.0013991000014357269,
+  "server_input_bytes": 26793,
+  "server_output_bytes": 8930
 }

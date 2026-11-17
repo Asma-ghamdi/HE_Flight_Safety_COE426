@@ -1,0 +1,4 @@
+airline,flights,values_encrypted,encrypt_seconds_total,encrypt_seconds_per_value,input_dataset_bytes,plaintext_counts_bytes,encrypted_message_bytes,expansion_factor
+Emirates,20,7,0.8766795999981696,0.12523994285688136,5168,207,8929,43.13526570048309
+Saudia,30,7,0.9691556000034325,0.13845080000049034,5406,208,8928,42.92307692307692
+Qatar_Airways,50,7,0.8503406000090763,0.12147722857272518,5878,210,8936,42.55238095238095

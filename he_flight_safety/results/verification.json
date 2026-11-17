@@ -1,0 +1,41 @@
+{
+  "metrics_checked": 7,
+  "all_metrics_match": true,
+  "comparison": {
+    "total_flights": {
+      "plaintext": 100,
+      "he_decrypted": 100,
+      "match": true
+    },
+    "high_descent_rate_events": {
+      "plaintext": 11,
+      "he_decrypted": 11,
+      "match": true
+    },
+    "unstable_approach_events": {
+      "plaintext": 17,
+      "he_decrypted": 17,
+      "match": true
+    },
+    "hard_landing_events": {
+      "plaintext": 12,
+      "he_decrypted": 12,
+      "match": true
+    },
+    "gpws_warning_events": {
+      "plaintext": 10,
+      "he_decrypted": 10,
+      "match": true
+    },
+    "approach_instability_score_sum": {
+      "plaintext": 341,
+      "he_decrypted": 341,
+      "match": true
+    },
+    "landing_severity_score_sum": {
+      "plaintext": 300,
+      "he_decrypted": 300,
+      "match": true
+    }
+  }
+}

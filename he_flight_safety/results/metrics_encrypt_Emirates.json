@@ -2,10 +2,10 @@
   "airline": "Emirates",
   "flights": 20,
   "values_encrypted": 7,
-  "encrypt_seconds_total": 0.5201218007132411,
-  "encrypt_seconds_per_value": 0.07430311438760587,
+  "encrypt_seconds_total": 0.8766795999981696,
+  "encrypt_seconds_per_value": 0.12523994285688136,
   "input_dataset_bytes": 5168,
   "plaintext_counts_bytes": 207,
-  "encrypted_message_bytes": 8927,
-  "expansion_factor": 43.1256038647343
+  "encrypted_message_bytes": 8929,
+  "expansion_factor": 43.13526570048309
 }

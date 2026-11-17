@@ -2,10 +2,10 @@
   "airline": "Qatar_Airways",
   "flights": 50,
   "values_encrypted": 7,
-  "encrypt_seconds_total": 0.5193774998188019,
-  "encrypt_seconds_per_value": 0.07419678568840027,
+  "encrypt_seconds_total": 0.8503406000090763,
+  "encrypt_seconds_per_value": 0.12147722857272518,
   "input_dataset_bytes": 5878,
   "plaintext_counts_bytes": 210,
-  "encrypted_message_bytes": 8934,
-  "expansion_factor": 42.542857142857144
+  "encrypted_message_bytes": 8936,
+  "expansion_factor": 42.55238095238095
 }

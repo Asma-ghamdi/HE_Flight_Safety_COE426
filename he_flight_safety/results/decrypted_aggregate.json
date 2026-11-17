@@ -1,0 +1,22 @@
+{
+  "airlines_included": 3,
+  "decrypted_totals": {
+    "total_flights": 100,
+    "high_descent_rate_events": 11,
+    "unstable_approach_events": 17,
+    "hard_landing_events": 12,
+    "gpws_warning_events": 10,
+    "approach_instability_score_sum": 341,
+    "landing_severity_score_sum": 300
+  },
+  "event_rates_percent": {
+    "high_descent_rate_percent": 11.0,
+    "unstable_approach_rate_percent": 17.0,
+    "hard_landing_rate_percent": 12.0,
+    "gpws_warning_rate_percent": 10.0
+  },
+  "average_scores": {
+    "average_approach_instability": 3.41,
+    "average_landing_severity": 3.0
+  }
+}
