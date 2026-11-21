@@ -94,3 +94,10 @@ The prototype uses seven indicators:
 ## Privacy Model
 
 The external processing server is assumed to be **honest-but-curious**. It performs the required encrypted aggregation but does not possess the private key and therefore cannot directly decrypt the airlines' individual safety indicators.
+## Interactive Demo
+
+`demo/index.html` is a click-through visualization of the whole workflow: key generation, public-key distribution, local encryption by each airline, encrypted aggregation at the third-party server, and decryption by the manufacturer. A **Without HE** mode shows the plaintext baseline for comparison.
+
+Open `demo/index.html` in a browser. Click (or press →) to advance one step and press **R** to restart. Use **Upload Excel files** to run the pipeline live on your own airline datasets, which need the same columns as `data/`.
+
+See [`demo/README.md`](demo/README.md) for details.
